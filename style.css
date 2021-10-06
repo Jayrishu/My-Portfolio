@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+#myapps{
+    background-color: blue;
+}
+#myapps h1{
+    color: crimson;
+    font-size: 40px;
+}
+#myapps h2{
+    color: gold;
+    font-size: 25px;
+}
+#mygames{
+    background-color:rebeccapurple;
+}
+#mygames h1{
+    color: green;
+    font-size: 40px;
+}
+#mygames h2{
+    color: yellowgreen;
+    font-size: 25px;
+}
+#chatbots{
+    background-color: orange;
+}
+#chatbots h1{
+    color: violet;
+    font-size: 40px;
+}
+#myapps h2{
+    color: indigo;
+    font-size: 25px;
+}
+.l{
+    background-color: wheat;
+    height: 4px;
+    width: 80px;
+    margin: 8px auto;
+}
